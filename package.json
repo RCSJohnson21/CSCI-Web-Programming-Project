@@ -13,10 +13,10 @@
     "hamburger-react": "^2.4.1",
     "js-base64": "^3.7.2",
     "mysql": "^2.18.1",
-    "next": "12.0.10",
+    "next": "^12.0.10",
     "next-connect": "^0.12.2",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-hooks-global-state": "^1.0.2",
     "react-slidedown": "^2.4.7",
     "tailwindcss": "^3.0.23"
